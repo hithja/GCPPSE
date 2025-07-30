@@ -1,0 +1,1 @@
+g++ ./src/main.cpp ./src/Animation.cpp ./src/Player.cpp ./src/Object.cpp ./src/Collision.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system && ./main
